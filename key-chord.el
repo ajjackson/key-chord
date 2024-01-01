@@ -3,6 +3,7 @@
 ;; Copyright (C) 2003, 2005, 2008, 2012 David Andersson
 
 ;; Author: David Andersson <l.david.andersson(at)sverige.nu>
+;; Version: 0.6
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: keyboard chord input
 
